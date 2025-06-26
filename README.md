@@ -1,2 +1,2 @@
 # DSA
-Leetcode solutions
+Leetcode practice
